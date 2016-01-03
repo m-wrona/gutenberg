@@ -9,3 +9,5 @@ Printer built based on [Ormerod 2](https://reprappro.com/documentation/ormerod-2
 * [Y-axis](https://reprappro.com/documentation/ormerod-2/y-axis-assembly/)
 
 * [Z-axis](https://reprappro.com/documentation/ormerod-2/z-axis-assembly/)
+
+* [Y-carriage](https://reprappro.com/documentation/ormerod-2/y-carriage/)
