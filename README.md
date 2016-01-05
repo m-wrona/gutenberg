@@ -13,3 +13,5 @@ Printer built based on [Ormerod 2](https://reprappro.com/documentation/ormerod-2
 * [Y-carriage](https://reprappro.com/documentation/ormerod-2/y-carriage/)
 
 * [X-axis assembly](https://reprappro.com/documentation/ormerod-2/x-axis-assembly/)
+
+* [X-axis mounting](https://reprappro.com/documentation/ormerod-2/x-axis-mounting/)
