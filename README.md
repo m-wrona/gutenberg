@@ -17,3 +17,5 @@ Printer built based on [Ormerod 2](https://reprappro.com/documentation/ormerod-2
 * [X-axis mounting](https://reprappro.com/documentation/ormerod-2/x-axis-mounting/)
 
 * [Heated bed assembly](https://reprappro.com/documentation/ormerod-2/heated-bed-assembly/)
+
+* [Extruder drive assembly](https://reprappro.com/documentation/ormerod-2/extruder-drive-assembly/)
