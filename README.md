@@ -18,17 +18,17 @@ Final product and sample printings are depicted below.
 
 # Lessons learned
 
-+ time needed for first construction: ~40h (another assemblies can be shorten to ~24h)
+(+) time needed for first construction: ~40h (another assemblies can be shorten to ~24h)
 
-+ good quality/price ration
+(+) good quality/price ration
 
-+ good for prototyping
+(+) good for prototyping
 
-+ great software (web page) for controlling printer
+(+) great software (web page) for controlling printer
 
-+ good model for learning
+(+) good model for learning
 
-- assembly of drive belt for axis (easy to fit but doesn't seem too reliable)
+(-) assembly of drive belt for axis (easy to fit but doesn't seem too reliable)
 
 # Assembly
 
